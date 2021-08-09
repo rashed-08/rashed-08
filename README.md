@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">A passionate backend developer and devops enthusiatic.</h3>
 
